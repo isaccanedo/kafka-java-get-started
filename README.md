@@ -9,7 +9,7 @@ description: "The examples in this repository demonstrate how to use the Kafka C
 urlFragment: hdinsight-kafka-java-get-started
 ---
 
-# Java-based example of using the Kafka Consumer, Producer, and Streaming APIs
+## Java-based example of using the Kafka Consumer, Producer, and Streaming APIs
 
 The examples in this repository demonstrate how to use the Kafka Consumer, Producer, and Streaming APIs with a Kafka on HDInsight cluster.
 
